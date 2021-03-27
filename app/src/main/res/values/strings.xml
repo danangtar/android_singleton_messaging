@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="send_button">Send</string>
+    <string name="input_message_hint">Input Message</string>
+    <string name="main_activity_head">Main Activity</string>
+    <string name="next_activity_head">Next Activity</string>
+</resources>
